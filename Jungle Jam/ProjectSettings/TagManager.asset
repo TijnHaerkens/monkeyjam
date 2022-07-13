@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - banana
+  - bananaBomb
+  - basket
+  - bananaCombo
+  - Canvas
+  - Bullet
+  - Monkey
+  - MonkeyBulletPoint
+  - Ball
+  - MonkeyBall1
+  - MonkeyBall2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Monkey
+  - ground
+  - Banana
+  - BLACKFADE
+  - Bullet
+  - ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3663335379
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Banana
+    uniqueID: 1804743017
+    locked: 0
+  - name: Particle
+    uniqueID: 2071621563
+    locked: 0

@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: musclebarfade
+  m_Controller: {fileID: 9100000, guid: 268af310cb0574c4dadbe742f11e3aa9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 94e65292522afaf4a8af11c7e0fa46b5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0e50ae6f6a95b2b408151098230e48ca, type: 2}

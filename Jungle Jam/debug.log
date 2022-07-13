@@ -1,0 +1,128 @@
+[1007/141604.276:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(57,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(65,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1007/141604.292:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(38,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(46,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1007/141605.314:INFO:CONSOLE(1)] "Failed to initialize cached content:", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js (1)
+[1007/141606.275:INFO:CONSOLE(1)] "%cUnhandled rejection TypeError: Cannot read property 'playlistUUID' of undefined
+    at f.updateTracks (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:88731)
+    at O.addContent (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79602)
+    at s.forEach.e (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78692)
+    at Array.forEach (<anonymous>)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78675)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79233)
+    at l (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:215141)
+    at j._settlePromiseFromHandler (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:188262)
+    at j._settlePromise (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189062)
+    at j._settlePromise0 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189761)
+    at j._settlePromises (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:191088)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:145301
+From previous event:
+    at j.I [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:158681)
+    at j._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:183730)
+    at j.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:182086)
+    at Object.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:69843)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1105/161546.107:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(57,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(65,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1105/161546.125:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(38,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(46,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1105/161546.761:INFO:CONSOLE(1)] "Failed to initialize cached content:", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js (1)
+[1105/161547.758:INFO:CONSOLE(1)] "%cUnhandled rejection TypeError: Cannot read property 'playlistUUID' of undefined
+    at f.updateTracks (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:88731)
+    at O.addContent (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79602)
+    at s.forEach.e (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78692)
+    at Array.forEach (<anonymous>)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78675)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79233)
+    at l (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:215141)
+    at j._settlePromiseFromHandler (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:188262)
+    at j._settlePromise (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189062)
+    at j._settlePromise0 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189761)
+    at j._settlePromises (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:191088)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:145301
+From previous event:
+    at j.I [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:158681)
+    at j._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:183730)
+    at j.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:182086)
+    at Object.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:69843)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1109/124300.675:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(57,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(65,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1109/124301.797:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(38,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(46,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1109/124302.163:INFO:CONSOLE(1)] "Failed to initialize cached content:", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js (1)
+[1109/124303.406:INFO:CONSOLE(1)] "%cUnhandled rejection TypeError: Cannot read property 'playlistUUID' of undefined
+    at f.updateTracks (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:88731)
+    at O.addContent (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79602)
+    at s.forEach.e (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78692)
+    at Array.forEach (<anonymous>)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78675)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79233)
+    at l (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:215141)
+    at j._settlePromiseFromHandler (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:188262)
+    at j._settlePromise (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189062)
+    at j._settlePromise0 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189761)
+    at j._settlePromises (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:191088)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:145301
+From previous event:
+    at j.I [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:158681)
+    at j._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:183730)
+    at j.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:182086)
+    at Object.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:69843)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1109/133323.049:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(58,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(66,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1111/121745.866:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(38,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(46,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1111/121746.526:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(57,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(65,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1111/121746.837:INFO:CONSOLE(1)] "Failed to initialize cached content:", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js (1)
+[1111/121751.869:INFO:CONSOLE(1)] "%cUnhandled rejection TypeError: Cannot read property 'playlistUUID' of undefined
+    at f.updateTracks (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:88731)
+    at O.addContent (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79602)
+    at s.forEach.e (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78692)
+    at Array.forEach (<anonymous>)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78675)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79233)
+    at l (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:215141)
+    at j._settlePromiseFromHandler (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:188262)
+    at j._settlePromise (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189062)
+    at j._settlePromise0 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189761)
+    at j._settlePromises (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:191088)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:145301
+From previous event:
+    at j.I [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:158681)
+    at j._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:183730)
+    at j.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:182086)
+    at Object.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:69843)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1111/131531.175:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(58,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(66,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+

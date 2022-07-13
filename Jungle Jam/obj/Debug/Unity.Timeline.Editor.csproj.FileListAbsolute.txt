@@ -1,0 +1,2 @@
+C:\Users\flori\OneDrive - SintLucas\SintLucas\Projects\Jungle Jam\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+C:\Users\flori\OneDrive - SintLucas\SintLucas\Projects\Jungle Jam\obj\Debug\Unity.Timeline.Editor.csproj.CoreCompileInputs.cache

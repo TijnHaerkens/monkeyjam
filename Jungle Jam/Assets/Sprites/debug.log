@@ -1,0 +1,109 @@
+[1007/123938.656:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(57,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(65,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1007/123938.673:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(38,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(46,8-28): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1007/123938.958:INFO:CONSOLE(1)] "Failed to initialize cached content:", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js (1)
+[1007/123940.336:INFO:CONSOLE(1)] "%cUnhandled rejection TypeError: Cannot read property 'playlistUUID' of undefined
+    at f.updateTracks (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:88731)
+    at O.addContent (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79602)
+    at s.forEach.e (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78692)
+    at Array.forEach (<anonymous>)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:78675)
+    at O.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:79233)
+    at l (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:215141)
+    at j._settlePromiseFromHandler (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:188262)
+    at j._settlePromise (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189062)
+    at j._settlePromise0 (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:189761)
+    at j._settlePromises (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:191088)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:145301
+From previous event:
+    at j.I [as _captureStackTrace] (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:158681)
+    at j._then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:183730)
+    at j.then (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js:1:182086)
+    at Object.<anonymous> (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:69843)
+    at o (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:410)
+    at window.webpackJsonp (file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/spaces.js:1:284)
+    at file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/main.js:1:1", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1008/093847.537:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1008/093848.140:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1008/093852.566:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130008.966:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130013.980:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130019.003:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130024.023:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130029.035:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130034.045:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130039.067:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130044.087:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130049.106:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130054.126:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130059.145:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130104.161:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130109.180:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130114.198:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130119.206:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130124.229:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130129.252:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130134.274:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130139.299:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130144.324:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130149.339:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130154.353:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130159.376:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130204.391:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130209.414:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130214.441:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130219.463:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130224.483:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130229.508:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130234.516:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130239.537:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130244.546:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130249.564:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130254.581:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130259.599:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130304.625:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130309.640:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130314.667:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130319.691:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130324.715:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130329.742:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130334.765:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130339.792:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130344.820:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130349.835:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130354.860:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130359.883:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130404.910:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130409.928:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130414.950:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130419.969:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130424.988:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130430.005:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130435.019:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130440.032:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130445.043:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130450.055:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130455.072:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130500.090:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130505.102:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130510.120:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130515.144:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130520.164:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130525.185:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130530.209:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130535.233:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130540.255:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130545.269:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130550.290:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130555.313:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130600.331:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130605.343:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130610.362:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130615.382:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130620.399:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1015/130625.422:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.

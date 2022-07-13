@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Banana
+  m_Controller: {fileID: 9100000, guid: 433e15de48330c843bfdd18224524af4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f9c3f2f827e535b47a908a2e05f59510, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7bdd3364729edd94791465c5a1392ec0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7f2d746f01b1da44588eadb8b099dcbc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1fa295657f6fbc24fb36e1e68c67eb2f, type: 2}
